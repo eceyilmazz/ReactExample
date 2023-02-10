@@ -1,0 +1,132 @@
+{
+  "navLinks": [
+    {
+      "id": 1,
+      "href": "/",
+      "title": "AnaSayfa"
+    },
+    {
+      "id": 2,
+      "href": "/faqs/SimpleWithSideImage",
+      "title": "Hakkımızda"
+    },
+    {
+      "id": 3,
+      "href": "/blogs/ThreeColSimpleWithImageAndDashedBorder",
+      "title": "Hizmetlerimiz"
+    },
+    {
+      "id": 4,
+      "href": "/forms/SimpleContactUs",
+      "title": "İletişim"
+    }
+  ],
+  "forms": [
+    {
+      "id": 1,
+      "name": "Ece",
+      "email": "deneme@gmail.com",
+      "message": "deneme deneme deneme",
+      "phone": "5061111"
+    },
+    {
+      "name": "Ece",
+      "email": "ylzece19@gmail.com",
+      "message": "asasfsdgdf",
+      "phone": "54166852",
+      "id": 2
+    },
+    {
+      "name": "Burcu Biricik",
+      "email": "gul@deneme.com",
+      "message": "DEneme mesajı",
+      "phone": "00000",
+      "id": 3
+    },
+    {
+      "name": "Ece",
+      "email": "19090700033@ogr.halic.edu.tr",
+      "message": "projelerinizden bahsedin",
+      "phone": "1111",
+      "id": 4
+    },
+    {
+      "name": "Ece",
+      "email": "ylzece19@gmail.com",
+      "message": "afsadgsfdf",
+      "phone": "65632325",
+      "id": 5
+    }
+  ],
+  "hizmetler": [
+    {
+      "id": 1,
+      "title": "Web Sitesi Yazılımları",
+      "description": "Web sitenize en iyi tasarım ve yazılım ile sahip olun. İster size özel tasarımlar, isterseniz de hazır tasarımlarla işe koyulabiliriz.",
+      "imageSrc": "images/web_icon.png",
+      "href": "/blogs/ThreeColSimpleWithImageAndDashedBorder",
+      "btnContent": "Daha Fazlası"
+    },
+    {
+      "id": 2,
+      "title": "Mobil Uygulama Yazılımı",
+      "description": "Hayalinizdeki uygulamayı hayata geçirmek için yola bizimle çıkabilirsiniz.",
+      "imageSrc": "images/app_icon.png",
+      "href": "/blogs/ThreeColSimpleWithImageAndDashedBorder",
+      "btnContent": "Daha Fazlası"
+    },
+    {
+      "id": 3,
+      "title": "Yazılım Geliştirme",
+      "description": "Mevcut yazılımınızı geliştirebilir ya da gelişimi için danışmanlık hizmeti alabilirsiniz.",
+      "imageSrc": "images/software_icon.png",
+      "href": "/blogs/ThreeColSimpleWithImageAndDashedBorder",
+      "btnContent": "Daha Fazlası"
+    }
+  ],
+  "heroContents": [
+    {
+      "id": 1,
+      "mainTitle": "Hayal Ettiğin Yazılım İçin...",
+      "subTitle": "Yazılıma dair bir yazılım evi.",
+      "btnContent": "Hızlı Teklif Al"
+    }
+  ],
+  "featureStats": [
+    {
+      "id": 1,
+      "heading": "Gerçeğe Dönüştürün",
+      "description": "Hayalleriniz mi var?",
+      "btnContent": "Hızlı Teklif Al"
+    }
+  ],
+  "hakkimizda": [
+    {
+      "id": 1,
+      "title": "Narval Yazılım",
+      "subTitle": "Hakkımızda",
+      "content": "Narval Yazılım, 2018 yılında piyasada boy gösteren bütün büyük e-ticaret firmalarına tepki olarak doğdu. Asıl hedefi müşterisine ihtiyacı olanı vermek ve ihtiyacı olanı istediği gibi kullanma imkanı vermek. Bu hedefe doğru ilerlerken müşterisinin ihtiyaçlarını da önceden analiz edip, hızlı çözümler üretiyoruz. Eğer bir yazılım kullanıyorsanız ya da bir yazılıma ihtiyaç duyuyorsanız. Artık hedeflerinizi büyütmüş olmalısınız. Narval Yazılım’da bu yolda hedeflerine ulaşırken günümüz teknolojisine uymayı da es geçmiyor. Narval üniversitelerde ve ticaret meslek liselerinde sektörün durumunu tüm öğrencilerle paylaştı. Hala teknoloji fuarları ve seminerlerinde gerekli sponsorluk anlaşmalarını yaparak hedeflerini tüm kullanıcılara anlatıyor. Narval bir MCS Ajans kuruluşudur. MCS Ajans yazılım sektöründeki ilerleyişini NARVAL Yazılım markası ile sürdürmektedir. Kendisine ait yönetim paneli ve müşteri destek sistemiyle müşterilerine en iyi desteği de sağlamaktadır.",
+      "imgSrc": "images/narval-logo.png"
+    }
+  ],
+  "hizmetlerimiz": [
+    {
+      "id": 1,
+      "imgSrc": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+      "title": "Web Sitesi Yazılımları",
+      "description": "Web sitenize en iyi tasarım ve yazılım ile sahip olun. İster size özel tasarımlar, isterseniz de hazır tasarımlarla işe koyulabiliriz."
+    },
+    {
+      "id": 2,
+      "imgSrc": "https://images.unsplash.com/photo-1579869847514-7c1a19d2d2ad?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "title": "Mobil Uygulama Yazılımı",
+      "description": "Hayalinizdeki uygulamayı hayata geçirmek için yola bizimle çıkabilirsiniz."
+    },
+    {
+      "id": 3,
+      "imgSrc": "https://images.unsplash.com/photo-1479660095429-2cf4e1360472?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+      "title": "Yazılım Geliştirme",
+      "description": "Mevcut yazılımınızı geliştirebilir ya da gelişimi için danışmanlık hizmeti alabilirsiniz."
+    }
+  ]
+}
