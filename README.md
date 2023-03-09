@@ -1,4 +1,4 @@
-## React Example
+# React Example
 
 ### Preview
 
